@@ -28,7 +28,7 @@ This is a simple Java-based ATM Machine project that simulates basic banking ope
 
 ## Output
 
-![ATM Output](ATM machine program output.png)
+![ATM Output](ATM%20machine%20program%20output.png)
 
 ## Created By
 Prabhneet Kaur
