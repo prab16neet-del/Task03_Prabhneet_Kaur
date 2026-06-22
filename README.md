@@ -26,5 +26,9 @@ This is a simple Java-based ATM Machine project that simulates basic banking ope
 2. Open the project in VS Code or any Java IDE
 3. Compile and run the Java file
 
+## Output
+
+![ATM Output](ATM machine program output.png)
+
 ## Created By
 Prabhneet Kaur
